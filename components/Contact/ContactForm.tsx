@@ -7,7 +7,6 @@ import {
   FadeContainer,
   mobileNavItemSideways,
 } from "@content/FramerMotionVariants";
-import Ripples from "react-ripples";
 import { useRef } from "react";
 import { FormInput } from "@lib/types";
 

@@ -1,0 +1,133 @@
+{
+  "public_identifier": "kamil",
+  "profile_pic_url": "https://i.imgur.com/RF2bEls.jpg",
+  "background_cover_image_url": null,
+  "first_name": "Kamil",
+  "last_name": "Krutul",
+  "full_name": "Kamil Krutul",
+  "occupation": "Senior Full Stack Developer at Self-employed",
+  "headline": "Senior Full Stack Developer at Self-employed",
+  "country": "Po",
+  "country_full_name": "Poland",
+  "city": "Warsaw",
+  "state": "Mazowieckie",
+  "experiences": [
+    {
+      "company": "DevelopsToday",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/developstoday/",
+      "logo_url": "https://i.imgur.com/RF2bEls.jpg",
+      "starts_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2022
+      },
+      "ends_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2024
+      },
+      "title": "Senior Full Stack Developer",
+      "description": "I research and study a subject, and then I compose an article about it. I introduce new and different topics and provide an in-depth explanation that is accessible to those who have no prior technical understanding of the subject matter. I ensure that the information is presented in a clear and in very simple language, making it accessible to readers of all skill levels even for those who may not have a strong command of the English language.\n\n\u2605 7.5K+ Followers\n\u2605 520K+ Post Views\n\u2605 Top 7 Author\n\u2605 100+ Posts\n\u2605 12K+ Reactions",
+      "location": "Poland"
+    },
+    {
+      "company": "Mainsoft",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/mainsoft-llc/",
+      "logo_url": "https://i.imgur.com/RF2bEls.jpg",
+      "title": "Full Stack Developer",
+      "description": null,
+      "location": "Warsaw, Poland",
+      "starts_at": {
+          "day": 1,
+          "month": 5,
+          "year": 2020
+        },
+      "ends_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2022
+      }
+    },
+    {
+      "company": "Lengin",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/lengin/",
+      "logo_url": "https://i.imgur.com/RF2bEls.jpg",
+      "starts_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2019
+      },
+      "ends_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2020
+      },
+      "title": "Full Stack Developer",
+      "description": null,
+      "location": "Tallinn, Estonia"
+    },
+    {
+      "company": "Xorlogics",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/xorlogics/",
+      "logo_url": "https://i.imgur.com/RF2bEls.jpg",
+      "starts_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2018
+      },
+      "ends_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2019
+      },
+      "title": "Frontend Developer",
+      "description": null,
+      "location": "Brussels, Belgium"
+    },
+    {
+      "company": "LeanCode",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/leancode/",
+      "logo_url": "https://i.imgur.com/RF2bEls.jpg",
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2016
+      },
+      "ends_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2018
+      },
+      "title": "Web Developer",
+      "description": null,
+      "location": "Warsaw, Poland"
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2012
+      },
+      "ends_at": {
+        "day": 1,
+        "month": 8,
+        "year": 2016
+      },
+      "field_of_study": "Computer Science",
+      "degree_name": "Bachelor of Computer Science",
+      "school": "University of the Philippines",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/university-of-the-philippines/",
+      "description": null,
+      "logo_url": "https://i.imgur.com/RF2bEls.jpg",
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [
+    "English"
+  ],
+ "gender": "Male",
+ "industry": "Software Development"
+}

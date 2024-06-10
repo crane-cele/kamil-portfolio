@@ -2,7 +2,6 @@ import {
   IContributionCalendar,
   IContributionCountByDay,
   IContributionDay,
-  IGitHubProfileResponse,
   IGitHubRepositoriesAPIResponse,
   IUserContributionDetails,
   IWeek,

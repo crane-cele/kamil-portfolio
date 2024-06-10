@@ -72,7 +72,6 @@ const SnowfallCanvas: React.FC = () => {
           if (!ctx) return;
 
           ctx.clearRect(0, 0, w, h);
-          // ctx.fillStyle = "hsla(242, 95%, 3%, 1)";
           ctx.fillRect(0, 0, w, h);
           ctx.fill();
 
@@ -104,7 +103,7 @@ const SnowfallCanvas: React.FC = () => {
         ctx.clearRect(0, 0, window.innerWidth, window.innerHeight);
       }
     };
-  }, []);
+  }, [width]);
 
   const canvasStyles: React.CSSProperties = {
     backgroundColor: "transparent",

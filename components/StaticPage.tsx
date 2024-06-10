@@ -1,7 +1,5 @@
 import AnimatedDiv from "@components/FramerMotion/AnimatedDiv";
 import { IStaticPage } from "@lib/interface/sanity";
-import MDXComponents from "@components/MDXComponents";
-import { MDXRemote } from "next-mdx-remote";
 import MetaData from "@components/MetaData";
 import { PageData } from "@lib/types";
 import PageTop from "@components/PageTop";

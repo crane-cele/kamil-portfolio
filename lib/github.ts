@@ -20,7 +20,7 @@ export async function getGithubStarsAndForks() {
   try {
     // Fetch user's repositories from the GitHub API
     const res = await fetch(
-      "https://api.github.com/users/j471n/repos?per_page=100",
+      "https://api.github.com/users/crane-cele/repos?per_page=100",
       { headers }
     );
     const userRepos: IGitHubRepositoriesAPIResponse[] = await res.json();
@@ -77,7 +77,7 @@ export async function getGithubContribution() {
               }
             `,
     variables: {
-      LOGIN: "j471n",
+      LOGIN: "crane-cele",
       FROM: from,
       TO: to,
     },

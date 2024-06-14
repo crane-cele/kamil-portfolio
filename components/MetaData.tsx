@@ -64,7 +64,7 @@ export default function MetaData({
           firstName: "Kamil",
           lastName: "Krutul",
           gender: "Male",
-          username: "j471n",
+          username: "crane-cele",
         },
         images: [
           {
@@ -75,7 +75,7 @@ export default function MetaData({
             type: "image/jpeg",
           },
         ],
-        siteName: "j471n.in",
+        siteName: "kamil-portfolio",
       }}
     />
   );
